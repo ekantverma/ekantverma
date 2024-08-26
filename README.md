@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ekantverma13" target="blank"><img src="https://img.shields.io/twitter/follow/ekantverma13?logo=twitter&style=for-the-badge" alt="ekantverma" /></a> </p>
 
-- 🌱 I’m currently learning **Java, DSA, React Native**
+- 🌱 I’m currently learning **Java, DSA, Next.js**
 
 - 💬 Ask me about **Web Development, MERN**
 
